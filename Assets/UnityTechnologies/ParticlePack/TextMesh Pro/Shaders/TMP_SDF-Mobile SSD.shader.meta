@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 92b8131ac20cc444e91bf098ea8eddfd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Shaders/TMP_SDF-Mobile
+    SSD.shader
+  uploadId: 691001

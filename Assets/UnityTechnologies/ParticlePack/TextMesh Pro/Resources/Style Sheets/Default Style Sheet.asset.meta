@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ddc9fac8e483944bb987e8add3f033f
+timeCreated: 1432805430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Resources/Style Sheets/Default
+    Style Sheet.asset
+  uploadId: 691001

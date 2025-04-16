@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\TargetScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TargetScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\DistanceAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DistanceAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireRBS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FireRBS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\FiremanNPCAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FiremanNPCAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireSpawnSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FireSpawnSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\EnemyStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistanceAudio.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\DistanceAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DistanceAudio.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\DistanceAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DistanceAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:07:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireRBS.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireRBS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireRBS.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireRBS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireRBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:42:45.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiremanNPCAI.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\FiremanNPCAI.cs",
+              "RelativeDocumentMoniker": "Assets\\FiremanNPCAI.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\FiremanNPCAI.cs",
+              "RelativeToolTip": "Assets\\FiremanNPCAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:19:20.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:05:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FireSpawnSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireSpawnSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireSpawnSystem.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\FireSpawnSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireSpawnSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:24:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\EnemyStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStateMachine.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\EnemyStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyStateMachine.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:35:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TargetScript.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\TargetScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetScript.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\TargetScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetScript.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:17:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:22:03.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hazard.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Hazard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hazard.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\Hazard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hazard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:20:48.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:56:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:14:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Bilguun Munkh-Erdene\\CS426_Lightburn\\Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-18T22:13:10.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

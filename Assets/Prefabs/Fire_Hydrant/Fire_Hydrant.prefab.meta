@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da77d6a3ed576d54ab1cf62aa4215d6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 654
+  packageName: Fire Hydrant
+  packageVersion: 4.0
+  assetPath: Assets/Prefabs/Fire_Hydrant/Fire_Hydrant.prefab
+  uploadId: 25906
