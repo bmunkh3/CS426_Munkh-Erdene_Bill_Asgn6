@@ -162,45 +162,36 @@ Count of fires extinguished, civilians saved (yet to implement) , and a narrativ
   - **Shader:**  
     - Custom shader for creating the fire which we already incorporated into the game design.
   - **Modifications:**  
-    - Flashlight added to camera for clear view in dark areas to increase visibility and realness 
-    - Added outside light to simulate city lights for added visibility outside.
+    - Flashlight
+    - Outside (Simulating City Lights)
 
 - **Semih Kesler:**  
   - **Shader:**  
-    - Newspaper glow (Force Field) shader helps to signify importance of the newspaper in terms of progressing in game
+    - Newspaper glow (Force Field) shader
   - **Modifications:**  
-    - Newspaper Fire Left on floor text helps with clarity of task
+    - Newspaper fire left on floor text
     - Replaced mouse over with proximity and turn toward for easier interactions for users
-    - Made interactable objects glowing because users had trouble knowing what was and wasn’t
+    - Made interactable objects glowing and glow differnt when can interact
     - Connect door and newspaper with corresponding both light red if locked and both blue if unlocked
-    - Aimable Hose follows players mouse on y axis users requested and allows more freedom and better field of view
-    - Stair barrier so players don’t skip floors
+    - Aimable Hose mapped to mouse Y-axis movement
+    - Stair barrier
     - Win condition complete all tasks in UI reach end credits
     - Set key R to Reset game when in credit scene
-    - Scrollable End Screen
+    - Write Contribution: Scrollable Credit Screen
 
 - **Bill Munkh-Erdene:**  
   - **Shader:**  
     - Added a shader to fire hazards and fire objects to make them more visually distinct and easily recognizable.
   - **Modifications:**  
-    - Added a fire sizzling sound when a fire object / fire hazard is put out; giving more feedback to the player to know if a fire source has been extinguished or not.
-    - Added a fire scoreboard that dynamically increases if fire objects duplicate or not, as well as Survivors and Newspapers scores to make objectives of the game more          understandable.
-    - Lowered the amount of fire objects that can be present on each map and how often they clone themselves, as players were struggling with the amount of fire objects in        the Alpha release.
-    - When water source is ran out, it now says to refill water at a fire hydrant, communicating effectively to the player on how to restore their water resources. This was       implemented for better visual feedback for players that struggled with water resource management.
+    - Added a fire sizzling sound when a fire object / fire hazard is put out
+    - Added a fire scoreboard that dynamically increases if fire objects duplicate or not, as well as Survivors and Newspapers scores
+    - Lowered the amount of fire objects that can be present on each map and how often they clone themselves
+    - When water source is ran out, it now says to refill water at a fire hydrant
     - Added a damage overlay for when player is attacked or damaged by a fire object / hazard or an electric hazard. 
-    - Added an additional player hurt sound that plays each time player loses health: This was implemented as players struggled with keeping up when they were being               attacked, this more visually distinct feedback makes it more clear to the player when they are losing health. Additionally, as players were frustrated with losing           their health permanently, added a regeneration feature that heals 10 health points every 5 seconds after being damaged.
+    - Added an additional player hurt sound that plays each time player loses health
+    - Added a regeneration feature that heals 10 health points every 5 seconds after being damaged.
     - Made the First Form of Writing Contribution to the game by making a cutscene that gives exposition to the players about the serious educational point of the game.
     - Introduction of the main character - Jim Zorig; their background and tied their story to the objectives, Mecanims (NPC crew) in the game
-
-
-
-
-Added a damage overlay for when player is attacked or damaged by a fire object / hazard or an electric hazard. 
-Added an additional player hurt sound that plays each time player loses health
-This was implemented as players struggled with keeping up when they were being attacked, this more visually distinct feedback makes it more clear to the player when they are losing health.
-Additionally, as players were frustrated with losing their health permanently, added a regeneration feature that heals 10 health points every 5 seconds after being damaged.
-
-    
 
 ---
 
