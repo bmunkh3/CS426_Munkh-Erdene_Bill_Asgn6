@@ -15,6 +15,16 @@ You play as a firefighter navigating a burning urban street, extinguishing fires
 **Players & Interaction Patterns:**  
 Single-player firefighter amid crew (Single‑Player VS. Game)
 
+**Controls:**  
+- W / A / S / D — Move Character Around
+- Mouse — Look Around
+- Mouse1 — Shoot Water
+- Mouse2 — Zoom In
+- Space Bar — Jump
+- E — Open Door / Interact with Newspaper / Lead Survivor
+- F - Toggle Flashlight
+
+
 **Objectives:**  
 - Extinguish fires (Solution)  
 - Rescue civilians (Rescue)  
